@@ -1,0 +1,23 @@
+.text {
+    color: red;
+    background-color: antiquewhite;
+}
+.border {
+    text-align: center;
+    border: 3px solid green;
+}
+.container {
+    background-color: gray;
+}
+.content {
+    border-left:3px solid green;
+    background-color: white;
+}
+
+#center {
+   color: crimson;
+}
+#mau {
+    background-color: green;
+    color: white;
+}

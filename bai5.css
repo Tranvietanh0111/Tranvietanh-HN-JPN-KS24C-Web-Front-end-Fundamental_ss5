@@ -1,0 +1,14 @@
+body {
+    font-family:sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+}
+.banana{
+    background-color: #f2eac5;
+    padding: 15px;
+    border-left: 4px solid orange;
+}
+.daikho{
+    max-width: 800px;
+    margin: auto;
+}

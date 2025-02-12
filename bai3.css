@@ -1,0 +1,21 @@
+
+table{
+  background-color: rgb(161, 161, 161);
+  padding: 10px;
+  text-align: center;
+}
+caption{
+    background-color: rgb(161, 161, 161);
+}
+td,th{
+    
+    border:1px solid rgb(151, 144, 152);
+
+
+}
+.blue{
+    background-color: blue;
+}
+.while{
+    background-color: aliceblue;
+}
